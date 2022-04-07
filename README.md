@@ -8,4 +8,4 @@ This repository contains the Codewarrior project files for our semester project.
 
 This project uses an unmodified version of the tiny-AES-c library: https://github.com/kokke/tiny-AES-c
 
-- Cloned
+Cloned
